@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://nexus3-devops.apps.ocp.ocp-lab.serverlr.local/repository/maven-group/</url>
+      <url>http://nexus3-devops.apps.cpassare-mesh.emeashift.support/repository/maven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
