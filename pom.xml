@@ -365,17 +365,17 @@
   <repositories>
     <repository>
         <id>maven-group</id>
-        <url>http://nexus3-devops.apps.ocp.ocp-lab.serverlr.local/repository/maven-group/</url>
+        <url>http://nexus3-devops.apps.cpassare-mesh.emeashift.support/repository/maven-group/</url>
     </repository>
   </repositories>
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://nexus3-devops.apps.ocp.ocp-lab.serverlr.local/repository/maven-snapshots/</url>
+      <url>http://nexus3-devops.apps.cpassare-mesh.emeashift.support/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
-      <url>http://nexus3-devops.apps.ocp.ocp-lab.serverlr.local/repository/maven-releases/</url>
+      <url>http://nexus3-devops.apps.cpassare-mesh.emeashift.support/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 </project>
