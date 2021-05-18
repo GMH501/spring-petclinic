@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://nexus3-devops.apps.cluster-a375.a375.sandbox1266.opentlc.com/repository/maven-group/</url>
+      <url>http://nexus3-devops.apps.cluster-5c71.5c71.sandbox1496.opentlc.com/repository/maven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
