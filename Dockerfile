@@ -4,7 +4,7 @@
 #WORKDIR /tmp/
 #RUN mvn package
 
-FROM image-registry.openshift-image-registry.svc:5000/devops/openjdk:latest
+FROM docker.io/openjdk
 #COPY --from=MAVEN_TOOL_CHAIN /tmp/target/*.jar /
 COPY ./target/*.jar spring-boot-docker.jar
 EXPOSE 8080
