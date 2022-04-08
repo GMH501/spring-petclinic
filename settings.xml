@@ -12,7 +12,7 @@
     <server>
       <id>nexus-releases</id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>admin</password>
     </server>
   </servers>
 
@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://nexus3-devops.apps.cluster-5c71.5c71.sandbox1496.opentlc.com/repository/maven-group/</url>
+      <url>http://nexus3-project-target-test.apps.gmeghnag.emeashift.support/repository/maven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
