@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://nexus3-project-target-test.apps.gmeghnag.emeashift.support/repository/maven-group/</url>
+      <url>http://nexus3-devops.apps.gmeghnag.emeashift.support/repository/maven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
